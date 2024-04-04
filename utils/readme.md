@@ -1,8 +1,8 @@
 
-# Title: na
+# Title: readme generator
 
 ## Description 
-na
+readme 
 
 ## Table of Contents
 * [Description](#description)
@@ -14,14 +14,14 @@ na
 * [Questions](#questions)
 
 ## Installation
-na
+none
 
 ## Usage
-na
+node 
 
 ## License
 
-### Licensing
+
 MIT
 
   [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -29,10 +29,10 @@ MIT
 
 
 ## Contributing
-na
+github
 
 ## Questions 
 Contact info:
 [GitHub Username](https://github.com/user)
 </br>
-[Email: email@yahoo.com](mailto:email@yahoo.com)
+[Email: useruser@yahoo.com](mailto:useruser@yahoo.com)
